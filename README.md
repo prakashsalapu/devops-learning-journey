@@ -19,9 +19,12 @@ Here’s the roadmap so far:
 
 2. **[Networking for DevOps](https://github.com/prakashsalapu/networking-for-devops.git)**  
    - IP configuration, connectivity tests, routing, active connections, bandwidth monitoring, network troubleshooting.
+     
+3. **[Git & GitHub for DevOps](https://github.com/prakashsalapu/git-and-github-for-devops.git)**  
+   - Git fundamentals, stages of fresh repo, Branching, Merging code, Undoing, Fork, and more..
 
-3. **More Modules Coming Soon…**  
-   - Git, Docler, CI/CD, Kubernetes, Monitoring & Logging (Prometheus, Grafana) and more.
+4. **More Modules Coming Soon…**  
+   - Docler, CI/CD, Kubernetes, Monitoring & Logging (Prometheus, Grafana) and more.
 
 
 
